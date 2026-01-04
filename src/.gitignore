@@ -1,0 +1,5 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+test.csv
+image_features.csv
